@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera IBM Certification Courser
+Coursera IBM Certification Course
